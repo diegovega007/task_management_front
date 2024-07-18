@@ -1,0 +1,26 @@
+{
+  "name": "task_management_front",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vite preview",
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/font": "5.9.55",
+    "axios": "^1.7.2",
+    "roboto-fontface": "*",
+    "vue": "^3.4.31",
+    "vuetify": "^3.6.13",  
+    "webfontloader": "^1.0.0",
+    "vue-router": "^4.1.0" 
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "vite": "^4.5.3",  
+    "vite-plugin-vuetify": "^1.0.0" 
+  },
+  "type": "module"
+}
